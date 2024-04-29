@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: gray;
+}
+body{
+    background-color: black;
+}
+form{
+    text-align: center;
+}
+#search{
+    color: azure;
+    background-color: rgb(61, 61, 61);
+}
+#remove{
+    color: azure;
+    background-color: red;
+}
